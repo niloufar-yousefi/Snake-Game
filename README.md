@@ -1,7 +1,7 @@
 # Snake Game
 **Just play it and enjoy  the game**
 
-![magazine](https://github.com/niloufar-yousefi/Mouse-Move1/assets/156951582/3120d7ad-ff1e-4217-8c8a-8a5e829a8c1d)
+![snake game](https://github.com/niloufar-yousefi/Snake-Game/assets/156951582/8e6d32ad-5b4c-4b0c-b95e-0f51c9b12ac3)
 
 - [Demo Project](https://niloufar-yousefi.github.io/Snake-Game/)
 
