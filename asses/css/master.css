@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: vT323;
+    src: url(../font/VT323-Regular.ttf);
+}
